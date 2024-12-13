@@ -7,4 +7,5 @@
         <img src="http://github-readme-streak-stats.herokuapp.com?user=TanmayBoy&theme=tokyonight_duo&hide_border=true&mode=weekly">
     </div>
 </div>
-[Discord Presence][https://lanyard.cnrad.dev/api/930676201675165726](https://discord.com/users/930676201675165726)
+[![Discord Presence](https://lanyard.cnrad.dev/api/930676201675165726)](https://discord.com/users/930676201675165726)
+
